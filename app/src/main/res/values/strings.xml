@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrainTime</string>
+    <string name="add_timetable_request">新增查詢路線</string>
+    <string name="refresh">重新載入</string>
+    <string name="edit_timetable_requests">編輯路線</string>
+    <string name="add">新增</string>
+</resources>

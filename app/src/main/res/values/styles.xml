@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TrainInfo">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textAlignment">center</item>
+        <item name="tint">@color/black</item>
+    </style>
+
+    <style name="StationPicker">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="wv_textSize">24sp</item>
+        <item name="wv_normalItemTextColor">@color/white</item>
+        <item name="wv_selectedItemTextColor">@color/white</item>
+        <item name="wv_showDivider">true</item>
+        <item name="wv_dividerColor">@color/white</item>
+    </style>
+
+</resources>
